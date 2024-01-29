@@ -1,0 +1,61 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+.menu {
+    background-color: chartreuse;
+    height: 5rem;
+}
+.slider {
+    background-color: aquamarine;
+    height: 30rem;
+}
+.caja1 {
+    background-color: blue;
+    height: 15rem;
+}
+.caja2 {
+    background-color: crimson;
+    height: 15rem;
+}
+
+.caja3 {
+    background-color: darkorchid;
+    height: 15rem;
+}
+
+.caja4 {
+    background-color: mediumvioletred;
+    height: 15rem;
+}
+
+.cajita1 {
+    background-color: yellow;
+    height: 5rem;
+}
+.cajita2 {
+    background-color: greenyellow;
+    height: 5rem;
+}
+
+.cajita3 {
+    background-color: pink;
+    height: 5rem;
+}
+
+.cajita4 {
+    background-color: coral;
+    height: 5rem;
+}
+
+@font-face {
+    font-family: skincake;
+    src: url("/fonts/Skincake.ttf")
+  }
+
+h4 {
+    font-family: skincake;
+}
